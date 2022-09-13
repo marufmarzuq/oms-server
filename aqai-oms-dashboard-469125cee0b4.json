@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aqai-oms-dashboard",
+  "private_key_id": "469125cee0b43973aa93705f8a73d495cfe97d69",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoCJHV6BLwoFX/\npsQyi7fnJ/+YLZ1v/vdZhkhWDOFrBGtedl38zDVUxDeFjgp5djZ/AP3CXDoo/XIN\nBiohYflgtwbEDUqRHEKbrcyZB53h3gLRqSIrV5MjmhnGGqHpkqcb7+X6z2pGAAFl\nhncTErAMK85bssr71QAazoY+rNdQAwy/s3ffXSPSFGz1750vpcG60GKtOr6sQMg/\nsEaJ2Z9421wQi9/OWg5f9EQ9RhoKj+z0ZxDIAFrpZz/QTZMjl+Qu96WRmqvhHHrG\nCNE/a6uyWJFOCNekwqIVhuVR7vIRAiSvQtLfVbTuANblqIvT8/gXxSyC6vgVUygt\nxGoh9YK9AgMBAAECggEAAMgxbY5r8CS+4baz+Qw/adr8zIeB0RCdtBP06DmdHvNh\nUIo6e7+zi9Zx77Quhkwvir3FcI8fUiuDyV26+nbLQ1D2vhjVvQElqjXP2vJ3IKL4\n3mLsHsmEjMjdz9c147FkB7RBHL60XukHGKLckQEoQpY9mp2lZjCilH1bkJUbV2r6\nRQhPa6gOaIQp2IYckLYl+SnNYwAGty1Wo1qRaUYVT+pDuezMqF8675q0b7DHwjoj\nrYgYrNujrW4WDPnfFlpWAA+bvc+6QwmGmgWS3ce5VfNPib8cmpvNkVIWbBH7h4kj\niCwlQRGz1yWXkKTlKPQUQY+VKdVTJ2cJribQMjicfQKBgQDrbKZLRhw6qbBwD8r9\nIec2LiA+PNQ9F4cxUVS41Zs33/k0m7ZCM5Mw5to+vnaYKDZkgS20HPrFa7xVuIXD\ntvbfzgtfL4oWadV2lSCQwi/z7ejoDteMB63QU7urZrbguvJuFpVoVAQ0VIItMMft\nh+onbWbmrczWjhV0+2NZ1/n9MwKBgQC2uCAZUlkyih0t1+j0+dcmkRK5KzpCdZ+5\nmkANas5HtBkDNJpfWWbr4XtZ7/C0PRWgOlaQvubrC7cZ4iC6QKC4gSWEJGYirFWW\nnd/zz9U4ddWmrkep2tnq1WNdCe9hem6Anfv02xep2pnDhyqlI4yTsg7EOW3hIK4a\nRvLRTy4gTwKBgBE7Yayu1BAjLYv2S/hdS+w2UhvcHfjeyQF+H4Jr+DGNzlLgduW/\nmq2AqEbhcBLRFrIilnLRkDV1HlLz766UrNtS3Jg6BZSAaKSGY9zUqefj6SFbPMG+\nKiXOizUPjqFCbc5LDuKVC7281c5y/J9RTH1YT6jg3dZyjfWDFRGVcnHrAoGAYF5K\nJ7DD9KDddOFML3BZ5jBbhKfk6UpqPJS7NZhgRXcaPhOPW7ymSMA6s5uWAym4bzJ1\nl4/n8I3UO2WFR1Zwrf8HT2N3LtBfr7mCdW/nEAkt7uQ6Tb5scquq5VYpF+tfvpwU\nV/b5yw7NTE/M0R4ntXoSybFUX4lB6gADbxtow4cCgYEAv6WMs+/TpVcdGqUZUi6n\nT4maDiw46N6KuJTjISnzYZwftCAwJN0cNrxQiZnOymUriZ2Sv0YB0Jb+Zwkt5bLs\nrmwg2w03YibDNi93/UNj4S5s1jCJlqyYjmaIvcGI5diprmPio3Z6E7xNZr7ZEzzI\nS5uOwpPKRnkPBsYU8821510=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aqai-oms-service@aqai-oms-dashboard.iam.gserviceaccount.com",
+  "client_id": "117750730158914131792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aqai-oms-service%40aqai-oms-dashboard.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+################## CLOUD RUN ##############
+CLOUD_RUN_ORDERS_SERVICE_NAME=oms-node-server-uat
+
+################## Dev DB ###################
+DB_USER=postgres
+DB_HOST=35.202.220.114
+DB_DATABASE=postgres
+DB_PASSWORD=aqai@1b@2025
+DB_PORT=5432
+
+################## JWT AUTH ##################
+JWT_SECRET=AQAI2025
